@@ -1,0 +1,20 @@
+El producto disponible es: chocolate
+El producto disponible es: papas fritas
+El producto disponible es: galletas
+El producto disponible es: gaseosa
+El producto disponible es: chocolate
+El producto disponible es: papas fritas
+El producto disponible es: galletas
+El producto disponible es: gaseosa
+El producto disponible es: chocolate
+El producto disponible es: papas fritas
+El producto disponible es: galletas
+El producto disponible es: gaseosa
+El producto disponible es: ponque
+El producto disponible es: papas fritas
+El producto disponible es: chocolate
+El producto disponible es: arequipe
+El producto disponible es: ponque
+El producto disponible es: papas
+El producto disponible es: chocolate
+El producto disponible es: arequipe
